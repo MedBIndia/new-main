@@ -1,5 +1,5 @@
 .sec-div{
-	height: 570px;
+	height: 550px;
 	width: auto;
 	background-color: rgba(242, 232, 232, 0.745);
 	background-image: url('images/plus.jpeg');
@@ -39,7 +39,7 @@
 	border-radius: 10px;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: large;
-	margin-top: 100px;
+	margin-top: 70px;
 	
 }
 
@@ -146,6 +146,24 @@
 	margin-top: 40px;
 }
 
+.reviewer{
+	height: 80px;
+	width: 80px;
+	float: left;
+	border-radius: 50px;
+}
+
+.card-head{
+	float: left;
+	padding-left: 150px;
+	padding-top: 40px;
+}
+
+.card-para{
+	padding-top: 100px;
+	font-size: medium;
+}
+
 .outer {
     height: 400px;
     white-space: nowrap;
@@ -156,13 +174,12 @@
 }
 
 .outer .card {
-    width: 800px;
+    width: 700px;
     background-color:#eee;
     float: none;
     height: 90%;
     margin-left: 80px;
     display: inline-block;
-
 	border-radius: 20px;
 
 	
@@ -218,9 +235,11 @@ footer{
 .watsapp{
 	height: 40px;
 	width: 40px;
-	margin-left: 1200px;
+	margin-top: 500px;
 	position: fixed;
-	margin-top: 0px;
+	margin-left: 1220px;
+
+	
 }
 
 .foot{
@@ -265,6 +284,8 @@ footer{
 }
 
 .brand{
-	height: 62px;
+	height: 70px;
 	background-color: white;
+	
 }
+
